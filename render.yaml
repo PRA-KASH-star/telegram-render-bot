@@ -8,5 +8,3 @@ services:
     envVars:
       - key: TELEGRAM_TOKEN
         value: your_telegram_bot_token_here
-      - key: CHAT_ID
-        value: your_telegram_chat_id_here
